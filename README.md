@@ -24,7 +24,7 @@ A responsive web-based chatbot interface built using HTML, CSS, JavaScript, Tail
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone the Repository**
 
