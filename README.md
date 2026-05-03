@@ -64,20 +64,20 @@ Semester VIII
 ## 📸 Project Screenshots
 
 ### 🔹 Homepage
-![Homepage](./screenshots/homepage.png)
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/3b9e917b-f5d5-4d28-8a36-4a6e0e0f6b08" />
+
 
 ### 🔹 Chat Interface
-![Chat Interface](./screenshots/chat-interface.png)
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/3eed53af-d19c-4e5a-8fa6-0328944ad5b8" />
+
 
 ### 🔹 Response Example
-![Response Example](./screenshots/response.png)
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/b064dcb4-e046-4d56-b901-56a817d45bfe" />
+
 
 ### 🔹 Mobile View
-![Mobile View](./screenshots/mobile-view.png)
+<img width="480" height="746" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/2ac6ba7b-de9c-434b-9bd1-5eabaf0a0e0b" />
 
-> ⚠️ Replace the image paths above with your actual screenshot file paths inside a `/screenshots` folder.
-
----
 
 ## ⚙️ Installation & Setup
 
